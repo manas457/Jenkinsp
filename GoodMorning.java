@@ -5,5 +5,7 @@ public class GoodMorning {
         System.out.println("Good Night!");
         System.out.println("Monday!");
         System.out.println("Tuesday!");
+        System.out.println("Wednesday!");
+        System.out.println("Thrusday!");
     }
 }
